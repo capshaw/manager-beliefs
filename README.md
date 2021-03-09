@@ -1,2 +1,2 @@
 # manager-beliefs
-My beliefs as a manager, ever changing
+My beliefs as a manager, a work-in-progress.
